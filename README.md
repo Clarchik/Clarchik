@@ -1,4 +1,5 @@
-# Hello, I'm Vitalii Burakovskyy 👋
+Hello 👋 My name is Vitalii Burakovskyy
+===============================
 
 Frontend developer, Engineer
 ------------------- 
